@@ -48,7 +48,6 @@ All operations are handled by modular Python functions, and the UI is powered by
 math-calculator-app
 ├── math_app.py        # Main Streamlit UI
 ├── math_module.py     # Calculator logic (modular functions)
-├── chatBot.py         # (Optional) Chat feature (future use)
 ├── helper.py          # Utility helpers
 └── README.md          # You're here
 ```
@@ -59,7 +58,7 @@ math-calculator-app
 
 - [ ] Add input history tracking  
 - [ ] Add logarithmic and trigonometric functions  
-- [ ] Add a chatbot helper for guiding the user  
+- [ ] Add a chatbot helper for guiding the user ✅ - 16/09/2025 (OpenAI API Connection)
 - [ ] Add dark/light theme toggle  
 
 ---
@@ -67,7 +66,7 @@ math-calculator-app
 ## 👤 Author
 
 **[@dEagle-DEV](https://github.com/dEagle-DEV)**  
-This is my first Python project. Hopefully, many updates to come... I am commited. 
+This is my first Python project. Hopefully, many more projects to come.
 
 ---
 
